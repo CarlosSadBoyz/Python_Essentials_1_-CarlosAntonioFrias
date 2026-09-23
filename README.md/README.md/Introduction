@@ -1,0 +1,28 @@
+# Python Essentials 1 - Portada de Entrega
+
+* **Institución:** Universidad Tecnológica del Norte de Guanajuato (UTNG)
+* **Asignatura:** Python Essentials 1
+* **Alumno:** Carlos Antonio Frías Juárez
+* **Fecha:** 23 de Septiembre 2026
+
+---
+
+## Síntesis General
+
+Este repositorio contiene las evidencias y resúmenes teóricos elaborados durante el curso de Python Essentials 1. 
+A lo largo del trayecto académico se estudiaron las bases de la programación estructurada y lógica en Python,
+abarcando desde la declaración de variables, operadores y estructuras de control de flujo (condicionales y ciclos), 
+hasta el manejo de colecciones de datos (listas, tuplas, diccionarios), 
+la creación de funciones modulares y la gestión de excepciones.
+
+---
+
+## Evidencias de Resúmenes Escritos
+
+A continuación se muestran las capturas de los apuntes tomados a mano durante el estudio de cada módulo:
+
+| Módulo | Evidencia |
+| **Módulo 1** | ![Resumen Módulo 1](./resumenes/resumen_modulo_1.jpg) |
+| **Módulo 2** | ![Resumen Módulo 2](./resumenes/resumen_modulo_2.jpg) |
+| **Módulo 3** | ![Resumen Módulo 3](./resumenes/resumen_modulo_3.jpg) |
+| **Módulo 4** | ![Resumen Módulo 4](./resumenes/resumen_modulo_4.jpg) |
